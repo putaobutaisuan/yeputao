@@ -1665,7 +1665,7 @@ body {
     display: none
 }
 
-#pic:hover:after {
+#pic:active:after {
     display: block
 }
 
