@@ -1655,7 +1655,7 @@ body {
 
 #pic:after {
     content: "";
-    background-image: url(/yeputao/assets/gzh.jpg);
+    background-image: url(/yeputao/gzh.jpg);
     position: absolute;
     background-size: cover;
     background-repeat: no-repeat;
